@@ -14,3 +14,8 @@ First, in order to assemble the metagenome into contigs, the following SPAdes co
 In order to quantify the abundance of different microbes, the two metagenome files were uploaded one codex. The results are as follows.
 
 <img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/analysis1.PNG" width="1000"> <img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/analysis2.PNG" width="1000">
+
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/compo1.PNG" width="500"><img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/compo2.PNG" width="500">
+
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/taxo1.PNG" width="500"><img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/taxo2.PNG" width="500">
+
