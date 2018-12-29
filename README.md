@@ -91,3 +91,11 @@ Our data was limited by the use of a subset of the overall data (~10-20% of the 
 
 ## CONCLUSION
 Our initial metagenomic analyses show that each layer has its own set of bacteria and reveal correlations between soil composition and microbial ecosystems. These preliminary results need to be confirmed by further analysis of the whole metagenome for all layers. In addition, the metagenome of microbial populations in non-contaminated soil would provide a useful comparison. Such an analysis could shed light on the sequence of events that occurred post- contamination in regards to species mutation and migration.
+
+
+## Authors
+
+* **Paulameena Shultes**
+* **Steven Yu**
+* **Thomas Galeon**
+* **Zach Lyu**
