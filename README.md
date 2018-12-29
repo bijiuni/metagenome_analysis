@@ -20,7 +20,7 @@ Biological activities, especially microbial behaviors, are crucial for the under
 
 Four MG-RAST entries from layer 1 through layer 4 are included to generate a count table of organism with number of annotated contigs for each layer, which is then normalized based on the size differences (rows of annotation) to eliminate cross-layer bias. The top 20 most abundant organisms from each layer are inspected, of which 16 are shared by all four groups.
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a1.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a1.PNG"> 
 <img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a2.PNG">
 
 <br>
@@ -28,7 +28,7 @@ The sequence corresponding each of the 15 organisms in each layer are extracted 
 
 <br>
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a3.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a3.PNG"> 
 <img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a4.PNG">
 
 <br>
@@ -37,7 +37,7 @@ Clustering Analysis were performed on organism distribution and Ontology Enrichm
 
 <br>
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a5.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a5.PNG"> 
 <img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a6.PNG">
 
 <br>
@@ -58,7 +58,7 @@ Potassium and phosphorus levels both increased with soil depth. Phosphorus defic
 
 <br>
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a7.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a7.PNG"> 
 
 <br>
 
@@ -68,7 +68,7 @@ In order to match the ontology and biological information in each layer, eight g
 
 <br>
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a8.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a8.PNG"> 
 
 <br>
 
@@ -83,7 +83,7 @@ Although the top phylum were similar in One Codex and MG-RAST, the ranks and pro
 
 <br>
 
-<img src="https://github.com/bijiuni/metagenome_analysis/tree/master/img/a9.PNG"> 
+<img src="https://github.com/bijiuni/metagenome_analysis/blob/master/img/a9.PNG"> 
 
 <br>
 
